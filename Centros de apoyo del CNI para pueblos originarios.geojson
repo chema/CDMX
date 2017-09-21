@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1385999,
+                    19.4220171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rincon Zapatista / Cafetería Comandanta Ramona",
+                "styleUrl": "#icon-1646-C2185B-nodesc",
+                "styleHash": "-6132599b",
+                "styleMapHash": {
+                    "normal": "#icon-1646-C2185B-nodesc-normal",
+                    "highlight": "#icon-1646-C2185B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1525988,
+                    19.424777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Local de Unios",
+                "styleUrl": "#icon-1646-C2185B-nodesc",
+                "styleHash": "-6132599b",
+                "styleMapHash": {
+                    "normal": "#icon-1646-C2185B-nodesc-normal",
+                    "highlight": "#icon-1646-C2185B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.7670239,
+                    16.0875351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centro de Derechos Humanos Digna Ochoa A. C.",
+                "styleUrl": "#icon-1646-C2185B",
+                "styleHash": "227fd3f4",
+                "styleMapHash": {
+                    "normal": "#icon-1646-C2185B-normal",
+                    "highlight": "#icon-1646-C2185B-highlight"
+                },
+                "description": "Calle 1 de mayo No 73, entre Granaditas y Churubusco. Col. Evolución, Tonalá, Chiapas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.0101007,
+                    16.4360064,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Asamblea de Pueblos Indígenas en Defensa de la Tierra",
+                "styleUrl": "#icon-1646-C2185B-nodesc",
+                "styleHash": "-6132599b",
+                "styleMapHash": {
+                    "normal": "#icon-1646-C2185B-nodesc-normal",
+                    "highlight": "#icon-1646-C2185B-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.0130139,
+                    16.4273517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Radio Totopo",
+                "styleUrl": "#icon-1646-C2185B-nodesc",
+                "styleHash": "-6132599b",
+                "styleMapHash": {
+                    "normal": "#icon-1646-C2185B-nodesc-normal",
+                    "highlight": "#icon-1646-C2185B-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}
